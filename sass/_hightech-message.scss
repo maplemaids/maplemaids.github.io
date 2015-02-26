@@ -1,0 +1,86 @@
+
+section .customer {
+  padding-top: 30px;
+  padding-bottom: 50px;
+  
+
+  .image img {
+    margin: 0 50px;
+  }
+
+  .flexslider ul.slides .image>img {
+    border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    width: 150px;
+    height: 150px;
+  }
+
+  h2 {
+    font-family: 'Roboto Slab', serif;
+    font-weight: 700;
+    color: #2c502c;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 24px;
+
+  }
+
+  p {
+    margin-top: 30px;
+    color: #8c98a5;
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+    font-size: 20px;
+    text-align: center;
+
+  }
+
+  .btn-tech {
+    padding: 10px 15px;
+    background-color: #0fa5e4;
+    text-transform: uppercase;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #ffffff;
+    display: block;
+    margin: 0 auto;
+
+  }
+
+// THIS PORTION IS FOR THE CUSTOMER SLIDE====NOT USING IT TODO: REMOVE IT
+
+  // span {
+  //   color: #0fa5e4;
+  //   text-transform: uppercase;
+  // }
+
+  // .text-center {
+  //   margin-top: 20px;
+
+  // }
+
+  // blockquote {
+  //   color: #919c9d;
+  //   font-size: 14px;
+  //   font-family: 'Roboto', sans-serif;
+  //   font-style: italic;
+  //   text-align: center;
+  //   border-left: none;
+
+  // }
+
+  // blockquote:before {
+  //   color: #ccc;
+  //   font-family: 'Roboto', sans-serif;
+  //   content: open-quote;
+  //   font-size: 4em;
+  //   line-height: 0.1em;
+  //   margin-right: 0.25em;
+  //   vertical-align: -0.4em;
+  // }
+
+
+
+}

@@ -1,0 +1,20 @@
+section .invitation {
+  padding-top: 50px;
+  background-color: #0fa8e5;
+  p {
+    color: #ffffff;
+    font-size: 22px;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 400;
+    text-align: center;
+    
+    span {
+      color: #eeea02;
+    }
+  }
+
+  img {
+      display:block;
+      margin: 0 auto;
+    }
+}

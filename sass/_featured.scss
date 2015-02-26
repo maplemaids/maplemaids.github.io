@@ -1,0 +1,25 @@
+.featured {
+  padding-top: 40px;
+  padding-bottom: 24px;
+  background-color: #e7f6fc;
+  .yelp {
+    margin-top: -20px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .featured img {
+    padding-bottom: 50px;
+  }
+
+  .featured .yelp img {
+    padding-bottom: 20px;
+  }
+
+}
+
+@media (max-width: 767px) {
+  .featured img {
+    padding-bottom: 30px;
+  }
+}
