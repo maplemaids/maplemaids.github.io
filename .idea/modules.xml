@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/jekyll-m.iml" filepath="$PROJECT_DIR$/.idea/jekyll-m.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mm-final/.idea/MapleMaids.ca.iml" filepath="$PROJECT_DIR$/../mm-final/.idea/MapleMaids.ca.iml" />
     </modules>
   </component>
 </project>
