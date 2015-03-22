@@ -1,0 +1,143 @@
+.book .background {
+	background: linear-gradient(rgba(72,87,115,0.77), rgba(72,87,115,0.77)),url("../images/book_image.jpg") no-repeat center center;
+	background-size: cover;
+	padding: 60px 0 60px 0;
+}
+
+.book .background h2 {
+	text-align: center;
+	color: #fff;
+	text-shadow: 2px 2px 0 #212c44;
+	font-family: 'Oswald', sans-serif;
+	font-size: 40px;
+	text-transform: uppercase;
+}
+
+.book .background ul li {
+	float: left;
+	margin: 50px 11px 0 11px;
+	text-align: center;
+	width: 150px;
+}
+
+.book .background p {
+	font-family: arial;
+	color: #fff;
+	text-shadow: 1px 1px 0 #212c44;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 22px;
+}
+
+.book .heading .heading-text h1 {
+	color: #2d3e59;
+	font-size: 36px;
+	font-family: 'Oswald', sans-serif;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+.book .heading .heading-text p {
+	font-family: arial;
+	font-size: 19px;
+	color: #2d3e59;
+	font-weight: lighter;
+	line-height: 31px;
+	text-align: center;
+}
+
+.book .after-header {
+	margin-top: 50px;
+	margin-bottom: 80px;
+
+}
+
+.book .after-header .charity {
+	text-align: center;
+}
+
+.book .after-header .charity h3 {
+	font-family: 'Oswald', sans-serif;
+	font-size: 12px;
+	color: #222f45;
+	text-transform: uppercase;
+	line-height: 21px;
+}
+
+.book .after-header .charity .chb span {
+	font-family: 'Oswald', sans-serif;
+	font-size: 60px;
+	color: #222f45;
+	display: inline;
+	padding-top: 25px;
+}
+
+.book .after-header .charity .chb p {
+	font-family: arial;
+	font-size: 14px;
+	color: #2d3e59;
+	font-weight: lighter;
+	line-height: 31px;
+	font-weight: bold;
+}
+
+.book .after-header .charity .sep {
+	width: 100%;
+	height: 19px;
+	background: url("../images/seperator.png");
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+
+.book .after-header .sidepanelnew .icon1 {
+	background: url("../images/icon1.png") no-repeat 0 0;
+}
+
+.book .after-header .sidepanelnew .icon2 {
+	background: url("../images/icon2.png") no-repeat 0 0;
+}
+
+.book .after-header .sidepanelnew h3.icon3 {
+	background: url("../images/icon3.png") no-repeat 0 0;
+}
+
+.book .after-header .sidepanelnew h3.icon4 {
+	background: url("../images/icon4.png") no-repeat 0 0;
+}
+
+.book .after-header .sidepanelnew h3.icon5 {
+	background: url("../images/icon5.png") no-repeat 0 0;
+}
+
+.book .after-header .sidepanelnew h3 {
+	font-family: 'Oswald', sans-serif;
+	font-size: 14px;
+	color: #222f45;
+	padding-left: 35px;
+	height: 30px;
+	line-height: 30px;
+	padding-bottom: 10px;
+	text-transform: uppercase;
+}
+
+.book .after-header .sidepanelnew p {
+	font-family: arial;
+	font-size: 14px;
+	line-height: 24px;
+	color: #222f45;
+	padding-bottom: 10px;
+}
+
+.checklist h2 {
+	text-align: center;
+}
+
+.checklist p {
+	text-align: center;
+}
+
+.checklist tbody tr td span {
+	text-align: center;
+}
+
+

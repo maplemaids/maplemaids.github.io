@@ -6,9 +6,45 @@
   <body>
 
     {% include nav.html %}
-  
-  <h4>Wow this works fine</h4>
-  <p>This is pricing page</p>
+
+	<section class="pricing-wrap">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-10 col-md-offset-1 text-center">
+					<h1>Pricing Heading</h1>
+					<p>Sub heading
+
+				</div>
+			</div>
+
+			<div class="row">
+				{% include pricing-tables.html %}
+			</div>
+
+			<div class="row">
+				<div class="col-md-10 col-md-offset-1 text-center">
+					<strong>This is custom pricing message</strong>
+				</div>
+			</div>
+
+			<div class="row">
+				{% include pricing-services.html %}
+			</div>
+
+			<div class="row">
+				{% include pricing-detail.html %}
+			</div>
+
+
+		</div>
+	</section>
+
+
+
+	{% include hightech-message.html %}
+
+	{% include footer.html %}
+
 
 
   </body>

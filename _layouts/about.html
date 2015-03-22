@@ -7,7 +7,17 @@
 
     {% include nav.html %}
   
- <p>This is an about us page, yo!</p>
+	<div class="container">
+		<div class="row">
+			<div class="col-md-10">
+				{{content}}
+			</div>
+		</div>
+	</div>
+
+	{% include hightech-message.html %}
+
+	{% include footer.html %}
 
 
   </body>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="JavaScriptLibraryMappings">
-    <file url="file://$PROJECT_DIR$/../mm-final" libraries="{jekyll-m node_modules}" />
-    <file url="PROJECT" libraries="{gruntjs-DefinitelyTyped}" />
+    <file url="file://$PROJECT_DIR$" libraries="{jekyll-m node_modules}" />
+    <file url="PROJECT" libraries="{gruntjs-DefinitelyTyped, jQuery-2.0.0}" />
     <includedPredefinedLibrary name="Node.js Globals" />
   </component>
 </project>
