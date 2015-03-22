@@ -37,6 +37,9 @@ $on-laptop:        800px;
     }
 }
 
+body {
+	overflow-x: hidden;
+}
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)
