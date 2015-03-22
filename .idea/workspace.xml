@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69493d59-faa7-40d5-8a36-cd2ecf30e2e5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/_pricing-detail.scss" afterPath="$PROJECT_DIR$/sass/_pricing-detail.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/_pricing-services.scss" afterPath="$PROJECT_DIR$/sass/_pricing-services.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/_pricing-tables.scss" afterPath="$PROJECT_DIR$/sass/_pricing-tables.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/head.html" afterPath="$PROJECT_DIR$/_includes/head.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main-unprefixed.css.map" afterPath="$PROJECT_DIR$/css/main-unprefixed.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main-unprefixed.css" afterPath="$PROJECT_DIR$/css/main-unprefixed.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="jekyll-m.iws" />
@@ -53,11 +47,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="head.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="head.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/head.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.461538" vertical-offset="0" max-vertical-offset="918">
-              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+            <state vertical-scroll-proportion="0.41034484" vertical-offset="0" max-vertical-offset="918">
+              <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -76,10 +70,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_pricing-tables.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_pricing-tables.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sass/_pricing-tables.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.08600337" vertical-offset="1717" max-vertical-offset="2652">
+            <state vertical-scroll-proportion="-68.0" vertical-offset="0" max-vertical-offset="2652">
               <caret line="104" column="21" selection-start-line="104" selection-start-column="21" selection-end-line="104" selection-end-column="21" />
               <folding />
             </state>
@@ -136,11 +130,11 @@
         <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/sass/main.scss" />
         <option value="$PROJECT_DIR$/_includes/footer.html" />
-        <option value="$PROJECT_DIR$/_includes/head.html" />
         <option value="$PROJECT_DIR$/sass/_pricing-detail.scss" />
         <option value="$PROJECT_DIR$/sass/_faq.scss" />
         <option value="$PROJECT_DIR$/sass/_pricing-services.scss" />
         <option value="$PROJECT_DIR$/sass/_pricing-tables.scss" />
+        <option value="$PROJECT_DIR$/_includes/head.html" />
       </list>
     </option>
   </component>
@@ -876,18 +870,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/head.html">
+    <entry file="file://$PROJECT_DIR$/sass/_pricing-tables.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.461538" vertical-offset="0" max-vertical-offset="918">
-          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        <state vertical-scroll-proportion="-68.0" vertical-offset="0" max-vertical-offset="2652">
+          <caret line="104" column="21" selection-start-line="104" selection-start-column="21" selection-end-line="104" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sass/_pricing-tables.scss">
+    <entry file="file://$PROJECT_DIR$/_includes/head.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.08600337" vertical-offset="1717" max-vertical-offset="2652">
-          <caret line="104" column="21" selection-start-line="104" selection-start-column="21" selection-end-line="104" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.41034484" vertical-offset="0" max-vertical-offset="918">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
           <folding />
         </state>
       </provider>
