@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69493d59-faa7-40d5-8a36-cd2ecf30e2e5" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/about.md" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/book.md" afterPath="$PROJECT_DIR$/pages/book.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/faq.md" afterPath="$PROJECT_DIR$/pages/faq.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pricing-and-services.md" afterPath="$PROJECT_DIR$/pages/pricing-and-services.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/about.html" afterPath="$PROJECT_DIR$/_layouts/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/aboutus.md" afterPath="$PROJECT_DIR$/pages/aboutus.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/jumbotron.html" afterPath="$PROJECT_DIR$/_includes/jumbotron.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="jekyll-m.iws" />
@@ -45,11 +40,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.40134907" vertical-offset="0" max-vertical-offset="612">
+            <state vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="612">
               <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jumbotron.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_includes/jumbotron.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.17586207" vertical-offset="0" max-vertical-offset="580">
+              <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -93,7 +98,6 @@
         <option value="$PROJECT_DIR$/../jekyll-m/_includes/four-column-feature.html" />
         <option value="$PROJECT_DIR$/../jekyll-m/_includes/head.html" />
         <option value="$PROJECT_DIR$/CNAME" />
-        <option value="$PROJECT_DIR$/_includes/jumbotron.html" />
         <option value="$PROJECT_DIR$/sass/booknow.scss" />
         <option value="$PROJECT_DIR$/_includes/pricing-section.html" />
         <option value="$PROJECT_DIR$/_includes/pricing-services.html" />
@@ -120,6 +124,7 @@
         <option value="$PROJECT_DIR$/about.md" />
         <option value="$PROJECT_DIR$/_layouts/about.html" />
         <option value="$PROJECT_DIR$/pages/aboutus.md" />
+        <option value="$PROJECT_DIR$/_includes/jumbotron.html" />
       </list>
     </option>
   </component>
@@ -564,13 +569,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/jumbotron.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17317487" vertical-offset="0" max-vertical-offset="589">
-          <caret line="6" column="52" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sass/_booknow.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-21.5" vertical-offset="1872" max-vertical-offset="2533">
@@ -821,8 +819,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.40134907" vertical-offset="0" max-vertical-offset="612">
+        <state vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="612">
           <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/jumbotron.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17586207" vertical-offset="0" max-vertical-offset="580">
+          <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
           <folding />
         </state>
       </provider>
