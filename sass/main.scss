@@ -52,6 +52,8 @@ only screen and (min-device-pixel-ratio: 1.5){
 }
 
 
+
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "base",
@@ -71,6 +73,8 @@ only screen and (min-device-pixel-ratio: 1.5){
 		"pricing-services",
 		"pricing-tables",
 		"faq",
-		"about"
+		"about",
+		"application"
+
 
 ;

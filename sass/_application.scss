@@ -1,0 +1,19 @@
+iframe{
+	border: none !important;
+	margin-bottom: 50px;
+
+}
+
+p {
+	font-size: 15px;
+	line-height: 2em;
+	font-family: 'PT Sans', sans-serif;
+}
+
+
+@media only screen and (max-width : 580px) {
+	iframe {
+		height: 3500px !important;
+	}
+}
+

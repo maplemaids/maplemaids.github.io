@@ -1,9 +1,12 @@
 .jumbotron {
-  background: url(../images/jumbotron.png) no-repeat center center;
-  background-size: cover;
-  height: auto;
-  z-index: -1;
-  margin-bottom: 0;
+	background: url(../images/jumbotron.png) no-repeat center center;
+	-webkit-background-size: 100% 100%;
+	-moz-background-size: 100% 100%;
+	-o-background-size: 100% 100%;
+	background-size: 100% 100%;
+	background-size: cover;
+	z-index: -1;
+	margin-bottom: 0;
 
   h1 {
     font-family: 'Roboto Slab', serif;
@@ -69,9 +72,3 @@
   }
 }
 
-@media (min-width: 1300px) {
-  .jumbotron {
-    min-height: 900px;
-    background: url(../images/jumbotron.png) no-repeat cover cover;
-  }
-}
