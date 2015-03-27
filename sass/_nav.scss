@@ -3,6 +3,11 @@
 	margin-top: -25px;
 }
 
+.navbar-toggle {
+	margin-bottom: 0px;
+	margin-top: 16px;
+}
+
 .navbar-default {
 	background-color: #ffffff;
 	border-color: #e7e7e7;
@@ -25,10 +30,9 @@
 	color: #2fb3e5;
 }
 
-.nav > li {
+.navbar .nav > li {
 	margin-top: 10px;
 	margin-right: 40px;
-	font-family: 'Roboto Slab', serif;
 	text-transform: uppercase;
 	font-size: 14px;
 }
@@ -54,6 +58,7 @@ nav .navbar-collapse {
 		text-transform: uppercase;
 		font-size: 14px;
 		color: #2fb3e5;
+		display: block;
 
 	}
 	a {
