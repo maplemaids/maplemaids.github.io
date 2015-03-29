@@ -1,15 +1,14 @@
-h2 {
-	font-family: 'Roboto Slab', serif;
-	margin-bottom: 40px;
+.faq {
+	p {
+		font-family: $PTSans;
+		font-size: 18px;
+		margin-bottom: 30px;
+		font-weight: 400;
+	}
+
+	strong {
+		font-weight: 400;
+		font-family: $Roboto;
+	}
 }
 
-p {
-	font-family: 'Roboto Slab', serif;
-	font-size: 18px;
-	font-weight: 300;
-	margin-bottom: 30px;
-}
-
-strong {
-	font-weight: 500;
-}

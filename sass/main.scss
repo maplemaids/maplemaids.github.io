@@ -22,6 +22,12 @@ $content-width:    800px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
+// Font Colors
+$h1-header-color: #444;
+
+//Font Family
+$Roboto: 'Roboto Slab', serif; //100,300,400,700
+$PTSans : 'PT Sans', sans-serif; //400,700
 
 
 // Using media queries with like this:
@@ -52,6 +58,15 @@ only screen and (min-device-pixel-ratio: 1.5){
 }
 
 
+h1 {
+	font-family:$Roboto;
+	margin-top: 40px;
+	font-size: 32px;
+	margin-bottom: 40px;
+	color: $h1-header-color;
+	text-transform: capitalize;
+	font-weight: 400;
+}
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)
@@ -74,7 +89,8 @@ only screen and (min-device-pixel-ratio: 1.5){
 		"pricing-tables",
 		"faq",
 		"about",
-		"application"
+		"application",
+		"contactMethods"
 
 
 ;

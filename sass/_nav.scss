@@ -122,6 +122,19 @@ nav .navbar-collapse {
 	}
 }
 
+@media(min-width: 768px) and (max-width: 991px){
+	.navbar-brand>img {
+		margin-left: 130%;
+	}
+}
+
+@media(min-width: 992px) and (max-width: 1200px) {
+	.container.phone-section a {
+		margin-left: 42%;
+		
+	}
+}
+
 @media (min-width: 768px) and (max-width: 991px) {
 	.container.phone-section a {
 		margin-left: 40%;
