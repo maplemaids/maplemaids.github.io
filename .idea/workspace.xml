@@ -2,27 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69493d59-faa7-40d5-8a36-cd2ecf30e2e5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/_contactMethods.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_layouts/contact.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/contact.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/contactMethods.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_layouts/base.html" afterPath="$PROJECT_DIR$/_layouts/application.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/_faq.scss" afterPath="$PROJECT_DIR$/sass/_faq.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/_pricing-tables.scss" afterPath="$PROJECT_DIR$/sass/_pricing-tables.scss" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/hightech-message.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/three-steps.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/_three-steps.scss" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/_contactMethods.scss" afterPath="$PROJECT_DIR$/sass/_contactMethods.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/_jumbotron.scss" afterPath="$PROJECT_DIR$/sass/_jumbotron.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/_lady-feature.scss" afterPath="$PROJECT_DIR$/sass/_lady-feature.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/about.html" afterPath="$PROJECT_DIR$/_layouts/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/application-form.md" afterPath="$PROJECT_DIR$/pages/application-form.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/application.html" afterPath="$PROJECT_DIR$/_layouts/application.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/book-now.html" afterPath="$PROJECT_DIR$/_layouts/book-now.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/contact.html" afterPath="$PROJECT_DIR$/_layouts/contact.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/contactMethods.html" afterPath="$PROJECT_DIR$/_includes/contactMethods.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="$PROJECT_DIR$/_layouts/default.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/faq.html" afterPath="$PROJECT_DIR$/_layouts/faq.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/head.html" afterPath="$PROJECT_DIR$/_includes/head.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/jumbotron.html" afterPath="$PROJECT_DIR$/_includes/jumbotron.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/lady-feature.html" afterPath="$PROJECT_DIR$/_includes/lady-feature.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main-unprefixed.css.map" afterPath="$PROJECT_DIR$/css/main-unprefixed.css.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main-unprefixed.css" afterPath="$PROJECT_DIR$/css/main-unprefixed.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/main.scss" afterPath="$PROJECT_DIR$/sass/main.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/nav.html" afterPath="$PROJECT_DIR$/_includes/nav.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/pricing-and-services.html" afterPath="$PROJECT_DIR$/_layouts/pricing-and-services.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/pricing-detail.html" afterPath="$PROJECT_DIR$/_includes/pricing-detail.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/pricing-services.html" afterPath="$PROJECT_DIR$/_includes/pricing-services.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/pricing-tables.html" afterPath="$PROJECT_DIR$/_includes/pricing-tables.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="jekyll-m.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -49,8 +48,8 @@
       <file leaf-file-name="pricing-tables.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/pricing-tables.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1785" max-vertical-offset="3332">
-              <caret line="105" column="40" selection-start-line="105" selection-start-column="40" selection-end-line="105" selection-end-column="40" />
+            <state vertical-scroll-proportion="1.022152" vertical-offset="1785" max-vertical-offset="3332">
+              <caret line="124" column="0" selection-start-line="124" selection-start-column="0" selection-end-line="124" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -72,10 +71,11 @@
       <file leaf-file-name="_pricing-tables.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sass/_pricing-tables.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="2465">
-              <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="2397">
+              <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
               <folding>
-                <marker date="1427649946000" expanded="true" signature="86:127" placeholder="{...}" />
+                <marker date="1427655941000" expanded="true" signature="86:127" placeholder="{...}" />
+                <marker date="1427655941000" expanded="true" signature="263:345" placeholder="{...}" />
               </folding>
             </state>
           </provider>
@@ -346,7 +346,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -437,6 +436,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -477,10 +477,14 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <method />
     </configuration>
-    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
@@ -488,10 +492,6 @@
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="Chrome" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -559,9 +559,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="737" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Grunt" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.42945737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" x="155" y="33" width="861" height="608" />
+      <window_info id="Grunt" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.42812982" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" x="155" y="33" width="861" height="608" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.8651163" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.7897991" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" x="277" y="65" width="902" height="677" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="true" internal_type="SLIDING" type="FLOATING" visible="false" weight="0.3277439" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" x="209" y="125" width="770" height="453" />
@@ -573,14 +573,14 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.81395346" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32921174" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -600,9 +600,9 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20095314" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -718,23 +718,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/hightech-message.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="323">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sass/_footer.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="2482">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/three-steps.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="867">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
@@ -990,10 +976,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sass/_pricing-tables.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="2465">
-          <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="2397">
+          <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
           <folding>
-            <marker date="1427649946000" expanded="true" signature="86:127" placeholder="{...}" />
+            <marker date="1427655941000" expanded="true" signature="86:127" placeholder="{...}" />
+            <marker date="1427655941000" expanded="true" signature="263:345" placeholder="{...}" />
           </folding>
         </state>
       </provider>
@@ -1011,8 +998,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/pricing-tables.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1785" max-vertical-offset="3332">
-          <caret line="105" column="40" selection-start-line="105" selection-start-column="40" selection-end-line="105" selection-end-column="40" />
+        <state vertical-scroll-proportion="1.022152" vertical-offset="1785" max-vertical-offset="3332">
+          <caret line="124" column="0" selection-start-line="124" selection-start-column="0" selection-end-line="124" selection-end-column="0" />
           <folding />
         </state>
       </provider>
